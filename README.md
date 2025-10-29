@@ -2,8 +2,7 @@
 
 A machine learning model trained to predict the likelihood of flood events based on historical weather and geographical data. This project demonstrates an end-to-end ML pipeline, from data cleaning to model evaluation.
 
-**[Live Deployed App Link Here]** <- (You'll add this after Part 2!)
-
+**Deploy Link**-->[https://flood-prediction-yc7qzd2xhzatnm8dhthrif.streamlit.app/]
 ## 🎯 Project Goal
 
 The objective of this project was to build and evaluate a binary classification model that can accurately predict flood occurrences. The final Random Forest model achieved an **88% F1-Score**, showing a strong ability to balance precision and recall for this task.
